@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite_Vidhisinghania">
+	<test name="Test">
+		<classes>
+
+			<class name="com.create4.execution.TS_01_Institute_Creation">
+				<methods>
+
+					<include name="CRe4_789()"></include>
+					<include name="CRe4_790()"></include>
+					<include name="CRe4_791_792_793_794_795_801_A"></include>
+					<include name="CRe4_796()"></include>
+					<include name="CRe4_797()"></include>
+					<include name="CRe4_798()"></include>
+					<include name="CRe4_799()"></include>
+					<include name="CRe4_800()"></include>
+					<include name="CRe4_801()"></include>
+
+				</methods>
+			</class>
+
+
+			<class name="com.create4.execution.TS_01A_Institution_View_Edit_Status">
+				<methods>
+
+					<include name="CRe4_762_763_764_765_766_767_768()"></include>
+					<include name="CRe4_768()"></include>
+					<include name="CRe4_769()"></include>
+					<include name="CRe4_770()"></include>
+					<include name="CRe4_771_772()"></include>
+					<include name="CRe4_773()"></include>
+					<include name="CRe4_774()"></include>
+					<include name="CRe4_776()"></include>
+					<include name="CRe4_777()"></include>
+
+				</methods>
+			</class>
+
+
+			<class name="com.create4.execution.TS_01B_Admin_Creation">
+				<methods>
+
+					<include name="CRe4_813"></include>
+					<include name="CRe4_814"></include>
+					<include name="CRe4_815"></include>
+					<include name="CRe4_816"></include>
+					<include name="CRe4_817"></include>
+					<include name="CRe4_818"></include>
+					<include name="CRe4_819"></include>
+					<include name="CRe4_820_821_822"></include>
+					<include name="CRe4_823"></include>
+					<include name="CRe4_824"></include>
+					<include name="CRe4_825_827_829_831_833_835_837"></include>
+					<include name="CRe4_826_828_830_832_834_836_838_839"></include>
+					<include name="CRe4_840_841_842_843_844_845"></include>
+
+				</methods>
+			</class>
+
+
+			<class name="com.create4.execution.TS_01C_Manage_Admin_View_Edit_Delete">
+				<methods>
+
+					<include name="CRe4_802_803_804_805()"></include>
+					<include name="CRe4_806_807_808_809_810_811_812()"></include>
+
+				</methods>
+			</class>
+
+
+			<class name="com.create4.execution.TS_02_Home_Page_Details">
+				<methods>
+
+					<include name="CRe4_01_02_03_08_10_11"></include>
+					<include name="CRe4_04()"></include>
+					<include name="CRe4_05()"></include>
+					<include name="CRe4_06()"></include>
+					<include name="CRe4_10()"></include>
+					<include name="CRe4_09()"></include>
+
+				</methods>
+			</class>
+
+
+			<class name="com.create4.execution.TS_02A_Institute_Home_Page_Details">
+				<methods>
+
+					<include name="CRe4_12_14_15_21_23_24()"></include>
+					<include name="CRe4_18_22_26_29()"></include>
+					<include name="CRe4_25_27()"></include>
+					<include name="CRe4_28_30()"></include>
+					<include name="CRe4_16"></include>
+
+				</methods>
+			</class>
+
+			<class
+				name="com.create4.execution.TS_02B_Login_Page_in_Institute_Home_Page">
+				<methods>
+
+					<include name="CRe4_101_102()"></include>
+					<include name="CRe4_103_104_109()"></include>
+					<include name="CRe4_108"></include>
+					<include name="CRe4_111"></include>
+
+
+				</methods>
+			</class>
+
+			<class
+				name="com.create4.execution.TS_02C_Forgot_Password_in_Inst_Home_Page">
+
+				<methods>
+
+					<include name="CRe4_112_to_124()"></include>
+				</methods>
+
+			</class>
+
+			<class name="com.create4.execution.TS_25_PI_Registration">
+				<methods>
+
+					<include name="Register_CRe4_33_34_35_36"></include>
+					<include name="CRe4_37_38_39_40_41_44"></include>
+					<include name="RegisterIECadmin_CRe4_46_47"></include>
+					<include name="RegisterIECadmin_CRe4_45"></include>
+					<include name="CRe4_48_49_50_51_52_54_55_55_a"></include>
+
+				</methods>
+			</class>
+
+
+			<class name="com.create4.execution.TS_26_Manage_Registration_Requests">
+				<methods>
+
+					<include name="Register_CRe4_58_59_60_61"></include>
+					<include name="Register_CRe4_64_65"></include>
+					<include name="Register_CRe4_70_71_72_73_74"></include>
+				</methods>
+			</class>
+
+
+			<class name="com.create4.execution.TS_112_Admin_regreq_dashb">
+				<methods>
+
+					<include name="CRe4_454_455_456_457_458_459_460"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_128_Allrole_menus">
+				<methods>
+
+					<include name="CRe4_596_597()"></include>
+					<include name="CRe4_598_99()"></include>
+					<include name="CRe4_600_601"></include>
+					<include name="CRe4_602_603_604_605()"></include>
+					<include name="CRe4_606_607()"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_39_PI_menu">
+				<methods>
+
+					<include name="CRe4_1204()"></include>
+
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_29_PI_profile">
+				<methods>
+
+					<include name="CRe4_95"></include>
+					<include name="CRe4_96"></include>
+					<include name="CRe4_97_98"></include>
+					<include name="CRe4_99"></include>
+
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_136_PI_profile_update">
+				<methods>
+
+					<include name="CRe4_684"></include>
+					<include name="CRe4_686"></include>
+					<include name="CRe4_686_a"></include>
+					<include name="CRe4_687"></include>
+					<include name="CRe4_697_698_699_700_701_702_703_704_705"></include>
+
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_125_Studyteammem_add">
+				<methods>
+
+					<include name="CRe4_565_566_567_568_569"></include>
+					<include name="CRe4_575"></include>
+					<include name="CRe4_576"></include>
+					<include name="CRe4_577"></include>
+					<include name="CRe4_580"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_139_Investigator_mail">
+				<methods>
+					<include name="CRe4_138()"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_113_Admin_invitereq_dashb">
+				<methods>
+
+					<include name="CRe4_462_to_467"></include>
+
+				</methods>
+			</class>
+
+
+			<class name="com.create4.execution.TS_146_Prjct_submit_form_details">
+				<methods>
+
+					<include name="CRe4_1989_1991_1992"></include>
+
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_38_View_Invitee_Requests">
+				<methods>
+
+					<include name="CRe4_1178_1180_1181_1182_1183_1184_1185"></include>
+
+
+				</methods>
+			</class>
+
+
+<!-- Application having issue so will run script later -->
+		<!-- 	<class name="com.create4.execution.TS_126_Studyteam_prjctaccess">
+				<methods>
+
+					<include name="CRe4_581_82_83_84_85_87_89_90"></include>
+				</methods>
+			</class> -->
+
+			<class name="com.create4.execution.TS_127_ApplyPI_4studyteam">
+				<methods>
+
+					<include name="CRe4_591_592_593()"></include>
+
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_03_Institute_update_in_Admin">
+				<methods>
+
+					<include name="CRe4_846"></include>
+					<include name="CRe4_847"></include>
+					<include name="CRe4_848"></include>
+					<include name="CRe4_849"></include>
+					<include name="CRe4_850"></include>
+					<include name="CRe4_851_852"></include>
+					<include name="CRe4_853"></include>
+
+				</methods>
+			</class>
+
+
+		</classes>
+	</test>
+</suite> 

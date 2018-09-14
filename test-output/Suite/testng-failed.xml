@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.create4.execution.TS_36_Announcement_Update">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="TearDown"/>
+          <include name="CRe4_1154_55"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_36_Announcement_Update -->
+      <class name="com.create4.execution.TS_20_Mem_Update">
+        <methods>
+          <include name="CRe4_1005"/>
+          <include name="CRe4_999"/>
+          <include name="CRe4_1017"/>
+          <include name="CRe4_993"/>
+          <include name="CRe4_1014"/>
+          <include name="CRe4_1011"/>
+          <include name="CRe4_1002"/>
+          <include name="TearDown"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1008"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_20_Mem_Update -->
+      <class name="com.create4.execution.TS_06A_SOP_add">
+        <methods>
+          <include name="CRe4_892"/>
+          <include name="CRe4_888"/>
+          <include name="CRe4_887"/>
+          <include name="CRe4_883"/>
+          <include name="TearDown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_06A_SOP_add -->
+      <class name="com.create4.execution.TS_24_Ethic_Update">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1108"/>
+          <include name="CRe4_1105"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_24_Ethic_Update -->
+      <class name="com.create4.execution.TS_14A_Qual_add">
+        <methods>
+          <include name="TearDown"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_928"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_14A_Qual_add -->
+      <class name="com.create4.execution.TS_12A_Dept_add">
+        <methods>
+          <include name="CRe4_917_18_19_10"/>
+          <include name="TearDown"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_920"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_12A_Dept_add -->
+      <class name="com.create4.execution.TS_34_Announcement_view">
+        <methods>
+          <include name="CRe4_1139_to_44"/>
+          <include name="TearDown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_34_Announcement_view -->
+      <class name="com.create4.execution.TS_19_Mem_add">
+        <methods>
+          <include name="CRe4_1047"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_1054"/>
+          <include name="CRe4_1051"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_19_Mem_add -->
+      <class name="com.create4.execution.TS_08A_SOP_Update">
+        <methods>
+          <include name="CRe4_866"/>
+          <include name="CRe4_867"/>
+          <include name="CRe4_865"/>
+          <include name="CRe4_868"/>
+          <include name="CRe4_869"/>
+          <include name="CRe4_870_871_872_873_874_875"/>
+          <include name="TearDown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_08A_SOP_Update -->
+      <class name="com.create4.execution.TS_16_Doctype_add">
+        <methods>
+          <include name="CRe4_960_a_961"/>
+          <include name="beforeMethod"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_16_Doctype_add -->
+      <class name="com.create4.execution.TS_07A_SOP_View">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="TearDown"/>
+          <include name="CRe4_863"/>
+          <include name="CRe4_864"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_07A_SOP_View -->
+      <class name="com.create4.execution.TS_22_Ethic_add">
+        <methods>
+          <include name="CRe4_1078"/>
+          <include name="beforeMethod"/>
+          <include name="TearDown"/>
+          <include name="CRe4_1070_71_1085_80_to_85"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_22_Ethic_add -->
+      <class name="com.create4.execution.TS_35_Announcement_add">
+        <methods>
+          <include name="CRe4_1149_53"/>
+          <include name="CRe4_1150_51_52"/>
+          <include name="TearDown"/>
+          <include name="CRe4_1147_48"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_35_Announcement_add -->
+      <class name="com.create4.execution.TS_17_Doctype_Update">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="TearDown"/>
+          <include name="CRe4_948_949"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_17_Doctype_Update -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+		
+			<class name="com.create4.execution.TS_94_Chngepwd_fnctnlty" >
+			<methods>
+
+				<include name="CRe4_728_729_730_733_734"></include>
+				<include name="CRe4_731_732"></include>
+						
+												
+			</methods>
+		</class>
+		
+		<class name="com.create4.execution.TS_30_Annexures_add">
+				<methods>
+
+					<include name="CRe4_1109"></include>
+					<include name="CRe4_1111"></include>
+					<include name="CRe4_1113__1116_1122"></include>
+					<include name="CRe4_1121"></include>
+				
+
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_31_Annexures_status">
+				<methods>
+
+					<include name="CRe4_1126()"></include>
+					<include name="CRe4_1129()"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_32_Annexures_view">
+				<methods>
+
+					<include name="CRe4_1109()"></include>
+					<include name="CRe4_1123()"></include>
+					<include name="CRe4_1124()"></include>
+					<include name="CRe4_1125()"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_33_Annexures_Update">
+				<methods>
+
+					<include name="CRe4_1132()"></include>
+					<include name="CRe4_1133()"></include>
+
+					<include name="CRe4_1134_1135()"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_124_CP_annexures_dashb">
+				<methods>
+
+					<include name="CRe4_562_564()"></include>
+
+
+				</methods>
+			</class>
+			
+			<class name="com.create4.execution.TS_119_MS_annexures_dashb" >
+			<methods>
+
+				<include name="CRe4_516()"></include>
+				
+												
+			</methods>
+		</class>
+		
+		<class name="com.create4.execution.TS_174_PI_dwnld_annexure" >
+			<methods>
+
+				<include name="CRe4_2021_2022_2023_2024()"></include>
+				
+												
+			</methods>
+		</class>
+		
+	
+		
+		<class name="com.create4.execution.TS_40_Project_list" >
+			<methods>
+
+				<include name="CRe4_1205_1206_1207_1208_1209"></include>
+								
+												
+			</methods>
+		</class>
+		
+		
+			<class name="com.create4.execution.TS_147_Prjct_summary_validation" >
+			<methods>
+
+				<include name="CRe4_1993"></include>
+				<include name="CRe4_1996"></include>
+				<include name="CRe4_1997"></include>
+				<include name="CRe4_1998"></include>
+				<include name="CRe4_2001"></include>
+				<include name="CRe4_2002"></include>
+				<include name="CRe4_2003"></include>
+				<include name="CRe4_2006"></include>
+				<include name="CRe4_2007"></include>
+				<include name="CRe4_2010_2013"></include>
+								
+												
+			</methods>
+		</class>
+		
+		<class name="com.create4.execution.TS_148_Prjct_docsform_submit" >
+			<methods>
+
+				<include name="CRe4_2015"></include>
+				<include name="CRe4_2026"></include>
+				<include name="CRe4_2027"></include>
+				<include name="CRe4_2039"></include>
+				<include name="CRe4_2040"></include>
+				<include name="CRe4_2041"></include>
+				<include name="CRe4_2042"></include>
+				<include name="CRe4_2043"></include>
+												
+												
+			</methods>
+		</class>
+		
+			<class name="com.create4.execution.TS_149_Prjcttype_chnge" >
+			<methods>
+
+				<include name="CRe4_2029"></include>
+				<include name="CRe4_2030_2034_2035"></include>
+				<include name="CRe4_2074_2075_2076"></include>
+															
+												
+			</methods>
+		</class>
+		
+		<class name="com.create4.execution.TS_150_Reviewtype_chnge" >
+			<methods>
+
+				<include name="CRe4_2032"></include>
+				<include name="CRe4_2033_37_38"></include>
+				<include name="CRe4_2077_2078_2079"></include>
+															
+												
+			</methods>
+		</class>
+		
+		<class name="com.create4.execution.TS_151_Prjctsub_docedit" >
+			<methods>
+
+				<include name="CRe4_2044_2045_2046_2047_2048_2053_2054"></include>
+															
+												
+			</methods>
+		</class> 
+		
+		<class name="com.create4.execution.TS_153_Prjctsave" >
+			<methods>
+
+				<include name="CRe4_2080"></include>
+															
+												
+			</methods>
+		</class> 
+		
+		<class name="com.create4.execution.TS_154_Prjctdelete" >
+			<methods>
+
+				<include name="CRe4_2081_2082"></include>
+																		
+												
+			</methods>
+		</class>  
+		
+		<class name="com.create4.execution.TS_155_PrjctvitCOI" >
+			<methods>
+
+				<include name="CRe4_2085_2086_2087_2088_2089_2090_2091_2093_2094_2095"></include>
+				<include name="CRe4_2097_2098_2099_2100_2101"></include>
+				<include name="CRe4_2092_2096"></include>	
+				<include name="CRe4_2102"></include>														
+												
+			</methods>
+		</class>  
+		
+		<class name="com.create4.execution.TS_156_Prjctsub_as_stdyteammem" >
+			<methods>
+
+				<include name="CRe4_2104"></include>
+																		
+												
+			</methods>
+		</class>  
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

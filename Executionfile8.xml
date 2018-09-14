@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+     
+      <class name="com.create4.execution.TS_170_Prov_rtrn_qry_formval">
+				<methods>
+				
+					<include name="CRe4_1961" />
+					<include name="CRe4_1967" />
+					<include name="CRe4_1973" />
+					<include name="CRe4_1979" />
+					<include name="CRe4_1985" />
+					
+				</methods>
+			</class> 
+     
+     <class name="com.create4.execution.TS_167_Edit_prov_retn_query">
+				<methods>
+				
+					<include name="CRe4_1954" />
+					<include name="CRe4_1955" />
+					<include name="CRe4_1956" />
+					<include name="CRe4_1957" />
+					<include name="CRe4_1958" />
+					
+				</methods>
+			</class> 
+			
+			 
+			
+			 <class name="com.create4.execution.TS_171_Prov_qry_rtrn_save">
+				<methods>
+				
+					<include name="CRe4_1975" />
+					<include name="CRe4_1987" />
+					
+					
+				</methods>
+			</class> 
+			
+			 <class name="com.create4.execution.TS_172_Prov_rtrn_qry_submittoiec">
+				<methods>
+				
+					<include name="CRe4_1968" />
+					<include name="CRe4_1974" />
+					<include name="CRe4_1980" />
+					<include name="CRe4_1986" />
+					
+					
+				</methods>
+			</class> 
+			
+			 <class name="com.create4.execution.TS_178_Dev_substat_msdecsn">
+				<methods>
+				
+					<include name="CRe4_1392" />
+					<include name="CRe4_1397" />
+					<include name="CRe4_1402" />
+					<include name="CRe4_1407" />
+					<include name="CRe4_1412" />
+					
+					
+				</methods>
+			</class> 
+     
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

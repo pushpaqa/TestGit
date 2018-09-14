@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+
+			<class name="com.create4.execution.TS_06A_SOP_add">
+				<methods>
+
+					<include name="CRe4_855"></include>
+					<include name="CRe4_876"></include>
+					<include name="CRe4_877"></include>
+					<include name="CRe4_878"></include>
+					<include name="CRe4_880"></include>
+					<include name="CRe4_881"></include>
+					<include name="CRe4_882"></include>
+					<include name="CRe4_883"></include>
+					<include name="CRe4_884"></include>
+					<include name="CRe4_887"></include>
+					<include name="CRe4_888"></include>
+					<include name="CRe4_892"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_07A_SOP_View">
+				<methods>
+
+					<include name="CRe4_863"></include>
+					<include name="CRe4_864"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_08A_SOP_Update">
+				<methods>
+
+					<include name="CRe4_865"></include>
+					<include name="CRe4_866"></include>
+					<include name="CRe4_867"></include>
+					<include name="CRe4_868"></include>
+					<include name="CRe4_869"></include>
+					<include name="CRe4_870_871_872_873_874_875"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_09A_External_add">
+				<methods>
+
+					<include name="CRe4_906"></include>
+					<include name="CRe4_907"></include>
+					<include name="CRe4_908"></include>
+					<include name="CRe4_909"></include>
+
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_10A_External_View">
+				<methods>
+
+					<include name="CRe4_893"></include>
+					<include name="CRe4_898"></include>
+					<include name="CRe4_899"></include>
+					<include name="CRe4_900"></include>
+
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_11A_External_Update">
+				<methods>
+
+					<include name="CRe4_901"></include>
+					<include name="CRe4_902"></include>
+					<include name="CRe4_903"></include>
+					<include name="CRe4_904"></include>
+					<include name="CRe4_905"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_12A_Dept_add">
+				<methods>
+
+					<include name="CRe4_917_18_19_10"></include>
+					<include name="CRe4_920"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_13A_Dept_Update">
+				<methods>
+
+					<include name="CRe4_913_CRe4_910_CRe4_914_CRe4_916"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_14A_Qual_add">
+				<methods>
+
+					<include name="CRe4_928"></include>
+					<include name="CRe4_930"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_15_Qual_Update">
+				<methods>
+					<include name="CRe4_924_925_926" />
+					<include name="CRe4_927" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_16_Doctype_add">
+				<methods>
+					<include name="CRe4_959_960" />
+					<include name="CRe4_960_a_961" />
+					<include name="CRe4_961_a_962" />
+					<include name="CRe4_961_b" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_17_Doctype_Update">
+				<methods>
+					<include name="CRe4_948_949" />
+					<include name="CRe4_950_951" />
+					<include name="CRe4_952" />
+					<include name="CRe4_953" />
+					<include name="CRe4_954" />
+					<include name="CRe4_955" />
+					<include name="CRe4_956" />
+					<include name="CRe4_957" />
+					<include name="CRe4_958" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_18_Doctype_search">
+				<methods>
+					<include name="CRe4_932_933_934_935_936" />
+					<include name="CRe4_937" />
+					<include name="CRe4_938" />
+					<include name="CRe4_939" />
+					<include name="CRe4_940" />
+					<include name="CRe4_941" />
+					<include name="CRe4_942" />
+					<include name="CRe4_943" />
+					<include name="CRe4_944" />
+					<include name="CRe4_945" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_19_Mem_add">
+				<methods>
+					<include name="CRe4_979_980_981_982_983_984_985" />
+					<include name="CRe4_986" />
+					<include name="CRe4_1022_1023_1024_1025_1026_1028" />
+					<include name="CRe4_1027" />
+					<include name="CRe4_1029" />
+					<include name="CRe4_1030" />
+					<include name="CRe4_1031" />
+					<include name="CRe4_1032" />
+					<include name="CRe4_1033" />
+					<include name="CRe4_1034" />
+					<include name="CRe4_1035" />
+					<include name="CRe4_1037" />
+					<include name="CRe4_1036" />
+					<include name="CRe4_1038" />
+					<include name="CRe4_1039" />
+					<include name="CRe4_1040" />
+					<include name="CRe4_1041" />
+					<include name="CRe4_1042" />
+					<include name="CRe4_1043" />
+					<include name="CRe4_1044" />
+					<include name="CRe4_1045" />
+					<include name="CRe4_1047" />
+					<include name="CRe4_1048" />
+					<include name="CRe4_1051" />
+					<include name="CRe4_1054" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_20_Mem_Update">
+				<methods>
+					<include name="CRe4_987_988" />
+					<include name="CRe4_989" />
+					<include name="CRe4_990" />
+					<include name="CRe4_992" />
+					<include name="CRe4_993" />
+					<include name="CRe4_995" />
+					<include name="CRe4_996" />
+					<include name="CRe4_998" />
+					<include name="CRe4_999" />
+					<include name="CRe4_1001" />
+					<include name="CRe4_1002" />
+					<include name="CRe4_1004" />
+					<include name="CRe4_1005" />
+					<include name="CRe4_1007" />
+					<include name="CRe4_1008" />
+					<include name="CRe4_1010" />
+					<include name="CRe4_1011" />
+					<include name="CRe4_1013" />
+					<include name="CRe4_1014" />
+					<include name="CRe4_1016" />
+					<include name="CRe4_1017" />
+					<include name="CRe4_1019" />
+					<include name="CRe4_1020" />
+					<include name="CRe4_1021" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_21_Mem_search">
+				<methods>
+					<include name="CRe4_970_971_972_973_977" />
+					<include name="CRe4_974" />
+					<include name="CRe4_975" />
+					<include name="CRe4_976" />
+					<include name="CRe4_978" />
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_137_Othr_profile_update">
+				<methods>
+					<include name="CRe4_706_707" />
+					<include name="CRe4_708" />
+					<include name="CRe4_709" />
+					<include name="CRe4_710" />
+					<include name="CRe4_711_712" />
+					<include name="CRe4_713" />
+					<include name="CRe4_714" />
+					<include name="CRe4_715" />
+					<include name="CRe4_716" />
+					<include name="CRe4_717" />
+					<include name="CRe4_718" />
+					<include name="CRe4_721_722" />
+					<include name="CRe4_724_725_726_727" />
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_22_Ethic_add">
+				<methods>
+					<include name="CRe4_1064_65" />
+					<include name="CRe4_1066_1067" />
+					<include name="CRe4_1070_71_1085_80_to_85" />
+					<include name="CRe4_1077" />
+					<include name="CRe4_1078" />
+					<include name="CRe4_1079" />
+					<include name="CRe4_1080" />
+					<include name="CRe4_1095_to_1100_1101_1102" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_23_Ethic_search">
+				<methods>
+					<include name="CRe4_1056" />
+					<include name="CRe4_1057" />
+					<include name="CRe4_1058" />
+					<include name="CRe4_1059" />
+					<include name="CRe4_1062" />
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_24_Ethic_Update">
+				<methods>
+					<include name="CRe4_1105" />
+					<include name="CRe4_1106" />
+					<include name="CRe4_1108" />
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_35_Announcement_add">
+				<methods>
+
+					<include name="CRe4_1145()"></include>
+					<include name="CRe4_1146()"></include>
+
+					<include name="CRe4_1147_48()"></include>
+					<include name="CRe4_1149_53()"></include>
+					<include name="CRe4_1150_51_52()"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_34_Announcement_view">
+				<methods>
+
+					<include name="CRe4_1136_37_38()"></include>
+					<include name="CRe4_1139_to_44()"></include>
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_36_Announcement_Update">
+				<methods>
+
+					<include name="CRe4_1154_55()"></include>
+
+				</methods>
+			</class>
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

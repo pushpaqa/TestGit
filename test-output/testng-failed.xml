@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.create4.execution.TS_01C_Manage_Admin_View_Edit_Delete">
+        <methods>
+          <include name="CRe4_806_807_808_809_810_811_812"/>
+          <include name="beforeMethod"/>
+          <include name="TearDown"/>
+          <include name="CRe4_802_803_804_805"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_01C_Manage_Admin_View_Edit_Delete -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

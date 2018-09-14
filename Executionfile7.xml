@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+     <class name="com.create4.execution.TS_162_Intsub_flow">
+				<methods>
+				
+					<include name="CRe4_1235" />
+					<include name="CRe4_1240" />
+					<include name="CRe4_1245" />
+					<include name="CRe4_1250" />
+					<include name="CRe4_1255" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_164_Int_prjctflw_queryreply">
+				<methods>
+				
+					<include name="CRe4_1263" />
+					<include name="CRe4_1268" />
+					<include name="CRe4_1273" />
+					<include name="CRe4_1278" />
+					<include name="CRe4_1283" />
+					<include name="CRe4_1288" />
+					<include name="CRe4_1293" />
+					<include name="CRe4_1298" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_176_Amnd_substat_msdecsn">
+				<methods>
+				
+					<include name="CRe4_1313" />
+					<include name="CRe4_1318" />
+					<include name="CRe4_1323" />
+					<include name="CRe4_1328" />
+					<include name="CRe4_1333" />
+					
+				</methods>
+			</class> 
+			
+			
+			<class name="com.create4.execution.TS_177_Amnd_substat_qryreply">
+				<methods>
+				
+					<include name="CRe4_1341" />
+					<include name="CRe4_1346" />
+					<include name="CRe4_1351" />
+					<include name="CRe4_1356" />
+					<include name="CRe4_1361" />
+					<include name="CRe4_1366" />
+					<include name="CRe4_1371" />
+					<include name="CRe4_1376" />
+					
+				</methods>
+			</class> 
+			
+			
+			
+			
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

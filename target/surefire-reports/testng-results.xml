@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite_Vidhisinghania" duration-ms="12997" started-at="2018-01-31T06:31:54Z" finished-at="2018-01-31T06:32:07Z">
+  <suite name="Suite_Vidhisinghania" duration-ms="15027" started-at="2018-02-22T06:12:27Z" finished-at="2018-02-22T06:12:42Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="12997" started-at="2018-01-31T06:31:54Z" finished-at="2018-01-31T06:32:07Z">
+    <test name="Test" duration-ms="15027" started-at="2018-02-22T06:12:27Z" finished-at="2018-02-22T06:12:42Z">
       <class name="SamplePackage.UrlLaunching">
-        <test-method status="PASS" signature="tearUp()[pri:0, instance:SamplePackage.UrlLaunching@614c5515]" name="tearUp" is-config="true" duration-ms="12170" started-at="2018-01-31T12:01:54Z" finished-at="2018-01-31T12:02:07Z">
+        <test-method status="PASS" signature="tearUp()[pri:0, instance:SamplePackage.UrlLaunching@614c5515]" name="tearUp" is-config="true" duration-ms="14065" started-at="2018-02-22T11:42:27Z" finished-at="2018-02-22T11:42:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearUp -->
-        <test-method status="PASS" signature="GoogleLaunch()[pri:0, instance:SamplePackage.UrlLaunching@614c5515]" name="GoogleLaunch" duration-ms="2" started-at="2018-01-31T12:02:07Z" finished-at="2018-01-31T12:02:07Z">
+        <test-method status="PASS" signature="GoogleLaunch()[pri:0, instance:SamplePackage.UrlLaunching@614c5515]" name="GoogleLaunch" duration-ms="2" started-at="2018-02-22T11:42:42Z" finished-at="2018-02-22T11:42:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GoogleLaunch -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SamplePackage.UrlLaunching@614c5515]" name="tearDown" is-config="true" duration-ms="799" started-at="2018-01-31T12:02:07Z" finished-at="2018-01-31T12:02:07Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SamplePackage.UrlLaunching@614c5515]" name="tearDown" is-config="true" duration-ms="929" started-at="2018-02-22T11:42:42Z" finished-at="2018-02-22T11:42:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

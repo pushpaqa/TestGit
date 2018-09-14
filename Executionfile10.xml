@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+
+	<class name="com.create4.execution.TS_106_PI_prjctsumry_dashb">
+		<methods>
+			<include name="CRe4_393_394_395_396_397_398_399_400_401_402_403_404_413" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.TS_107_PI_prjctnotif_dashb">
+		<methods>
+			<include name="CRe4_405_406_407" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.TS_108_PI_anuncmnt_dashb">
+		<methods>
+			<include name="CRe4_408_409_410_411_412" />
+
+		</methods>
+	</class>
+	
+	<!-- create demo resubmission showing blank page, once issue gets resolved we wil run the script
+ -->	<class name="com.create4.execution.TS_109_Admin_Unapproved_dasb">
+	
+		<methods>
+			<include name="CRe4_414_415_416_417_418_419_420_421_422_423_424_425_426_427_428_429" />
+
+		</methods>
+	</class>
+	
+		<!-- create demo showing blank page, once issue gets resolved we wil run the script
+ -->
+	<class name="com.create4.execution.TS_110_Admin_ongng_dashb">
+		<methods>
+			<include name="CRe4_430_to_448" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.TS_111_Admin_upcmngmtng_dashb">
+		<methods>
+			<include name="CRe4_449_450_451_452_453_454" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.TS_114_Admin_anuncmnt_dashb">
+		<methods>
+			<include name="CRe4_468_469_470_471_472" />
+
+		</methods>
+	</class>
+	
+	<!-- Admin review for withdrawal showing blank page once issue resolved will execute the script -->
+	<class name="com.create4.execution.TS_115_MS_Unapproved_dashb">
+		<methods>
+			<include name="CRe4_473_to_486" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.TS_116_MS_ongng_dashb">
+		<methods>
+			<include name="CRe4_487_to_505" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.TS_117_MS_upcmngmtng_dashb">
+		<methods>
+			<include name="CRe4_506_to_510" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.TS_118_MS_anuncmnt_dashb">
+		<methods>
+			<include name="CRe4_511_512_514" />
+
+		</methods>
+	</class>
+	
+	<!-- Admin review for withdrawal showing blank page once issue resolved will execute the script -->
+	<class name="com.create4.execution.TS_120_CP_unapproved_dashb">
+		<methods>
+			<include name="CRe4_519_520_521_522_523_524_525_526_527_528_529_530_531_532" />
+
+		</methods>
+	</class>
+	
+	<class name="com.create4.execution.TS_121_CP_ongng_dashb">
+		<methods>
+			<include name="CRe4_533_to_51" />
+
+		</methods>
+	</class>
+	<class name="com.create4.execution.TS_122_CP_upcmngmtng_dashb">
+		<methods>
+			<include name="CRe4_552_553_554_555_556" />
+
+		</methods>
+	</class>
+	<class name="com.create4.execution.TS_123_CP_anuncmnt_dashb">
+		<methods>
+			<include name="CRe4_557_558_559_560_561" />
+
+		</methods>
+	</class>
+	
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

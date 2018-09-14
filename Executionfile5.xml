@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+			<class name="com.create4.execution.TS_81_Int_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1213_to_1220" />
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_82_Amnd_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1302_05_07_09" />
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_83_Dev_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1381_84_86_88" />
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_84_Cont_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1435_38_40_42" />
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_85_Comp_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1514_17_19_21" />
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_86_Term_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1593_96_98_60" />
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_87_Saeint_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1672_75_77_79" />
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_88_Saefllw_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1741_44_46_48" />
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_89_Saeothr_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1820_23_25_27" />
+
+				</methods>
+			</class>
+
+			<class name="com.create4.execution.TS_90_With_docstat_msdcsn">
+				<methods>
+
+					<include name="CRe4_1891_94_96_98" />
+
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

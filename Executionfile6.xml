@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+    <class name="com.create4.execution.TS_51_Withexp_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1221" />
+					<include name="CRe4_1226" />
+					<include name="CRe4_1231" />
+					<include name="CRe4_1236" />
+					<include name="CRe4_1241" />
+					<include name="CRe4_1246" />
+					<include name="CRe4_1251" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_52_Amndexp_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1310" />
+					<include name="CRe4_1315" />
+					<include name="CRe4_1320" />
+					<include name="CRe4_1325" />
+					<include name="CRe4_1330" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_53_Devexp_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1389" />
+					<include name="CRe4_1394" />
+					<include name="CRe4_1399" />
+					<include name="CRe4_1404" />
+					<include name="CRe4_1409" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_54_Conexp_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1443" />
+					<include name="CRe4_1448" />
+					<include name="CRe4_1453" />
+					<include name="CRe4_1458" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_55_Compexp_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1522" />
+					<include name="CRe4_1527" />
+					<include name="CRe4_1532" />
+					<include name="CRe4_1537" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_56_Termexp_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1601" />
+					<include name="CRe4_1606" />
+					<include name="CRe4_1611" />
+					<include name="CRe4_1616" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_57_SaeInt_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1680" />
+					<include name="CRe4_1733" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_58_Saefllwexp_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1749" />
+					<include name="CRe4_1754" />
+					<include name="CRe4_1807" />
+					<include name="CRe4_1812" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_59_Saeothrexp_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1828" />
+					<include name="CRe4_1833" />
+					<include name="CRe4_1883" />
+					
+				</methods>
+			</class> 
+			
+			<class name="com.create4.execution.TS_60_Withdraw_prjctstatus4_msdcsn">
+				<methods>
+				
+					<include name="CRe4_1899" />
+					<include name="CRe4_1904" />
+					
+				</methods>
+			</class>  
+			
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

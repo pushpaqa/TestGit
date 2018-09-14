@@ -32,6 +32,56 @@
 			<version>6.11</version>
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+	<groupId>org.apache.xmlbeans</groupId>
+	<artifactId>xmlbeans</artifactId>
+	<version>2.3.0</version>
+</dependency>
+		
+		
+		<dependency>
+	        <groupId>net.sourceforge.jexcelapi</groupId>
+	        <artifactId>jxl</artifactId>
+	        <version>2.6.12</version>
+        </dependency>
+
+	<dependency>
+		<groupId>org.apache.poi</groupId>
+		<artifactId>poi</artifactId>
+		<version>3.11</version>
+	</dependency>
+	
+	<dependency>
+	<groupId>org.apache.poi</groupId>
+	<artifactId>poi-ooxml</artifactId>
+	<version>3.11</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml-schemas</artifactId>
+    <version>3.11</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-excelant</artifactId>
+    <version>3.11-beta2</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-scratchpad</artifactId>
+    <version>3.11-beta2</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-examples</artifactId>
+    <version>3.11</version>
+</dependency>
+	
 
 	</dependencies>
 
@@ -44,7 +94,17 @@
 				<inherited>true</inherited>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>testng.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile1.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile2.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile3.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile4.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile5.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile6.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile7.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile8.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile9.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile10.xml</suiteXmlFile>
+						<suiteXmlFile>Executionfile11.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

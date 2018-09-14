@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite_Vidhisinghania]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.create4.execution.TS_01C_Manage_Admin_View_Edit_Delete">
+        <methods>
+          <include name="CRe4_806_807_808_809_810_811_812"/>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_802_803_804_805"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_01C_Manage_Admin_View_Edit_Delete -->
+      <class name="com.create4.execution.TS_01_Institute_Creation">
+        <methods>
+          <include name="CRe4_800"/>
+          <include name="beforeMethod"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_01_Institute_Creation -->
+      <class name="com.create4.execution.TS_02C_Forgot_Password_in_Inst_Home_Page">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_112_to_124"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_02C_Forgot_Password_in_Inst_Home_Page -->
+      <class name="com.create4.execution.TS_03_Institute_update_in_Admin">
+        <methods>
+          <include name="CRe4_849"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="CRe4_853"/>
+          <include name="CRe4_848"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_03_Institute_update_in_Admin -->
+      <class name="com.create4.execution.TS_29_PI_profile">
+        <methods>
+          <include name="CRe4_96"/>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_29_PI_profile -->
+      <class name="com.create4.execution.TS_02A_Institute_Home_Page_Details">
+        <methods>
+          <include name="CRe4_12_14_15_21_23_24"/>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_02A_Institute_Home_Page_Details -->
+      <class name="com.create4.execution.TS_112_Admin_regreq_dashb">
+        <methods>
+          <include name="tearDown"/>
+          <include name="CRe4_454_455_456_457_458_459_460"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_112_Admin_regreq_dashb -->
+      <class name="com.create4.execution.TS_01A_Institution_View_Edit_Status">
+        <methods>
+          <include name="tearDown"/>
+          <include name="CRe4_768"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_01A_Institution_View_Edit_Status -->
+      <class name="com.create4.execution.TS_139_Investigator_mail">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_138"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_139_Investigator_mail -->
+      <class name="com.create4.execution.TS_127_ApplyPI_4studyteam">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="CRe4_591_592_593"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_127_ApplyPI_4studyteam -->
+      <class name="com.create4.execution.TS_146_Prjct_submit_form_details">
+        <methods>
+          <include name="tearDown"/>
+          <include name="CRe4_1989_1991_1992"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_146_Prjct_submit_form_details -->
+      <class name="com.create4.execution.TS_26_Manage_Registration_Requests">
+        <methods>
+          <include name="Register_CRe4_70_71_72_73_74"/>
+          <include name="tearDown"/>
+          <include name="Register_CRe4_58_59_60_61"/>
+          <include name="beforeMethod"/>
+          <include name="Register_CRe4_64_65"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_26_Manage_Registration_Requests -->
+      <class name="com.create4.execution.TS_128_Allrole_menus">
+        <methods>
+          <include name="tearDown"/>
+          <include name="CRe4_606_607"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.create4.execution.TS_128_Allrole_menus -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite_Vidhisinghania] -->

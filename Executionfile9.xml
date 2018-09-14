@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+    
+     <class name="com.create4.execution.TS_183_Saeint_quryreply" >
+			<methods>
+
+				<include name="CRe4_1688_1689_1690"></include>
+				<include name="CRe4_1698_1699_1670"></include>
+				<include name="CRe4_1703_1704_1705"></include>
+				<include name="CRe4_1708_1709_1710"></include>
+				<include name="CRe4_1713_1714_1715"></include>
+				<include name="CRe4_1718_1719_1720"></include>
+				<include name="CRe4_1723_1724_1725"></include>
+				<include name="CRe4_1728_1729_1730"></include>
+												
+												
+			</methods>
+		</class>
+		
+			<class name="com.create4.execution.TS_184_Saefollow_queryreply" >
+			<methods>
+
+				<include name="CRe4_1762_1763_1764"></include>
+				<include name="CRe4_1772_1773_1774"></include>
+				<include name="CRe4_1777_1778_1779"></include>
+				<include name="CRe4_1782_1783_1784"></include>
+				<include name="CRe4_1787_1788_1789"></include>
+				<include name="CRe4_1792_1793_1794"></include>
+				<include name="CRe4_1797_1798_1790"></include>
+				<include name="CRe4_1802_1803_1804"></include>
+												
+												
+			</methods>
+		</class>
+		
+			<class name="com.create4.execution.TS_185_Saeother_queryreply" >
+			<methods>
+
+				<include name="CRe4_1838_1839_1840_1841_1842"></include>
+				<include name="CRe4_1848_1849_1850_1851_1852"></include>
+				<include name="CRe4_1853_1854_1855_1856_1857"></include>
+				<include name="CRe4_1858_1859_1860_1861_1862"></include>
+				<include name="CRe4_1863_1864_1865_1866_1867"></include>
+				<include name="CRe4_1868_1869_1870_1871_1872"></include>
+				<include name="CRe4_1873_1874_1875_1876_1877"></include>
+				<include name="CRe4_1878_1879_1880_1881_1882"></include>
+												
+												
+			</methods>
+		</class>
+    
+    	<class name="com.create4.execution.TS_180_Cont_queryreply" >
+			<methods>
+
+				<include name="CRe4_1466_1467_1468"></include>
+				<include name="CRe4_1476_1477_1478"></include>
+				<include name="CRe4_1481_1482_1483"></include>
+				<include name="CRe4_1486_1487_1488"></include>
+				<include name="CRe4_1491_1492_1493"></include>
+				<include name="CRe4_1496_1497_1498"></include>
+				<include name="CRe4_1501_1502_1503"></include>
+				<include name="CRe4_1506_1507_1508"></include>
+												
+												
+			</methods>
+		</class>
+		
+			<class name="com.create4.execution.TS_181_Conmp_queryreply" >
+			<methods>
+
+				<include name="CRe4_1545_1546_1547"></include>
+				<include name="CRe4_1555_1556_1557"></include>
+				<include name="CRe4_1560_1561_1562"></include>
+				<include name="CRe4_1565_1566_1567"></include>
+				<include name="CRe4_1570_1571_1572"></include>
+				<include name="CRe4_1575_1576_1577"></include>
+				<include name="CRe4_1580_1581_1582"></include>
+				<include name="CRe4_1585_1586_1587"></include>
+												
+												
+			</methods>
+		</class>
+		
+			<class name="com.create4.execution.TS_182_Term_queryreply" >
+			<methods>
+
+				<include name="CRe4_1624_1625_1626"></include>
+				<include name="CRe4_1634_1635_1636"></include>
+				<include name="CRe4_1639_1640_1641"></include>
+				<include name="CRe4_1644_1645_1646"></include>
+				<include name="CRe4_1649_1650_1651"></include>
+				<include name="CRe4_1654_1655_1656"></include>
+				<include name="CRe4_1659_1660_1661"></include>
+				<include name="CRe4_1664_1665_1666"></include>
+												
+												
+			</methods>
+		</class>
+		
+      <class name="com.create4.execution.TS_186_Withdraw_queryreply" >
+			<methods>
+
+				<include name="CRe4_1909_1910_1911_1912_1913"></include>
+				<include name="CRe4_1919_1920_1921"></include>
+				<include name="CRe4_1924_1925_1926"></include>
+				<include name="CRe4_1929_1930_1931"></include>
+				<include name="CRe4_1934_1935_1936"></include>
+				<include name="CRe4_1939_1940_1941"></include>
+				<include name="CRe4_1944_1945_1946"></include>
+				<include name="CRe4_1949_1950_1951"></include>
+												
+												
+			</methods>
+		</class> 		
+		
+    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+		
+			<class name="com.create4.execution.TS_168_Onesubsequent_msletter" >
+			<methods>
+
+				<include name="CRe4168"></include>
+									
+												
+			</methods>
+		</class>
+		
+		<class name="com.create4.execution.TS_179_Allsubsequent_msletter" >
+			<methods>
+
+				<include name="CRe4179"></include>
+									
+												
+			</methods>
+		</class>
+		
+		<class name="com.create4.execution.TS_173_Exemptflow" >
+			<methods>
+
+				<include name="exempt_LOP"></include>
+				<include name="exempt_fb"></include>
+				<include name="exempt_exp"></include>
+									
+												
+			</methods>
+		</class>
+		
+		<class name="com.create4.execution.TS_61_MulSubdraft_Onetoadmin" >
+			<methods>
+
+				<include name="subsave"></include>
+																
+			</methods>
+		</class>
+		
+		<class name="com.create4.execution.TS_61_MulSubdraft_Onetoadmin" >
+			<methods>
+
+				<include name="subsave"></include>
+																
+			</methods>
+		</class>
+		
+		
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

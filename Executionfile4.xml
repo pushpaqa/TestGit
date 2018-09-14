@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.create4.execution.TS_157_Amend_sub_flow">
+				<methods>
+					<include name="CRe4_2108" />
+					<include name="CRe4_2109_2110_2111" />
+					<include name="CRe4_2112_2113_2114_2115" />
+					<include name="CRe4_2117_2118" />
+					<include name="CRe4_2119" />
+					<include name="CRe4_2120_2121_2122" />
+					<include name="CRe4_2123" />
+					<include name="CRe4_2124" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_158_Devsub_flow">
+				<methods>
+					<include name="CRe4_2154" />
+					<include name="CRe4_2165" />
+					<include name="CRe4_2166_2167_2168" />
+					<include name="CRe4_2169" />
+					<include name="CRe4_2155_2156_2157" />
+					<include name="CRe4_2158_2159_2260_2161" />
+					<include name="CRe4_2170" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_159_Contsub_flow">
+				<methods>
+					<include name="CRe4_2202" />
+					<include name="CRe4_2203_2204_2205" />
+					<include name="CRe4_2206_2207_2208_2209" />
+					<include name="CRe4_2211_2212" />
+					<include name="CRe4_2213" />
+					<include name="CRe4_CRe4_2214_2215_2216" />
+					<include name="CRe4_2217" />
+					<include name="CRe4_2218" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_160_Compsub_flow">
+				<methods>
+					<include name="CRe4_2248" />
+					<include name="CRe4_2249_2250_2251" />
+					<include name="CRe4_2252_2253_2254_2255" />
+					<include name="CRe4_2257_2258" />
+					<include name="CRe4_2259" />
+					<include name="CRe4_CRe4_2260_2261_2262_2263" />
+					<include name="CRe4_2264" />
+					<include name="CRe4_2276" />
+				</methods>
+			</class>
+			<class name="com.create4.execution.TS_161_Othrsub_flow">
+				<methods>
+					<include name="CRe4_2294" />
+					<include name="CRe4_2295_2296_2297" />
+					<include name="CRe4_2303_2304" />
+					<include name="CRe4_2305" />
+					<include name="CRe4_2309" />
+					<include name="CRe4_2310_2336" />
+				</methods>
+			</class> 
+			
+			
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
